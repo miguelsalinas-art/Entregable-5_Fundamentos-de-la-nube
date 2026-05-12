@@ -3,7 +3,7 @@ const menuItems = [
     { id: 1, name: "Pasata Bolognesa", description:"Plato fuerte", category: "platos-fuerte", price: "$225", image: "Pasta de mi restaurante.jpg" },
     { id: 2, name: "Corte de carne", description:"Plato fuerte", category: "platos-fuerte", price: "$400", image: "Corte de carne restaurante.jpg" },
     { id: 3, name: "Hamburguesa", description:"Plato fuerte", category: "platos-fuerte", price: "$250", image: "Hamburguesas para mi restaurante.jpg" },
-    { id: 4, name: "Café", description:"bebidas", category: "bebidas", price: "$45", image: "bebidas para rockcafe.jpg" },
+    { id: 4, name: "Café", description:"bebidas", category: "bebidas", price: "$45", image: "Bebidas para rockcafe.jpg" },
     { id: 5, name: "Limonadas", description:"bebidas", category: "bebidas", price: "$35", image: "bebidas rockcafe.jpg" },
     { id: 6, name: "Espressos", description:"bebidas", category: "bebidas", price: "$55", image: "bebidas rockcafee.jpg" },
     { id: 7, name: "Struddles", description:"Postres", category: "Postres", price: "$60", image: "Imagen postres.jpg" },
