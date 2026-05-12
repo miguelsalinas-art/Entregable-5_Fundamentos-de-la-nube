@@ -54,7 +54,7 @@ body {
 /* HERO SECTION */
 .hero {  
     height: 100vh;
-    background: url('/Users/miguegutierrez/Desktop/Proyecto Web/Act_S03_Restaurante/IMG/Imagen\ para\ restaurante..jpg') no-repeat center center/cover; 
+    background: url('/Users/miguegutierrez/Desktop/Proyecto Web/Act_S03_Restaurante/Imagen\ para\ restaurante..jpg') no-repeat center center/cover; 
     display: flex;
     align-items: center;
     justify-content: center;
