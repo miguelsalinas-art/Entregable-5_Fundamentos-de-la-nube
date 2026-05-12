@@ -1,13 +1,13 @@
 // DATOS DEL MENÚ
 const menuItems = [ 
-    { id: 1, name: "Pasata Bolognesa", description:"Plato fuerte", category: "platos-fuerte", price: "$225", image: "IMG/Pasta de mi restaurante.jpg" },
-    { id: 2, name: "Corte de carne", description:"Plato fuerte", category: "platos-fuerte", price: "$400", image: "IMG/Corte de carne restaurante.jpg" },
-    { id: 3, name: "Hamburguesa", description:"Plato fuerte", category: "platos-fuerte", price: "$250", image: "IMG/Hamburguesas para mi restaurante.jpg" },
-    { id: 4, name: "Café", description:"bebidas", category: "bebidas", price: "$45", image: "IMG/bebidas para rockcafe.jpg" },
-    { id: 5, name: "Limonadas", description:"bebidas", category: "bebidas", price: "$35", image: "IMG/bebidas rockcafe.jpg" },
-    { id: 6, name: "Espressos", description:"bebidas", category: "bebidas", price: "$55", image: "IMG/bebidas rockcafee.jpg" },
-    { id: 7, name: "Struddles", description:"Postres", category: "Postres", price: "$60", image: "IMG/Imagen postres.jpg" },
-    { id: 8, name: "Pastel", description:"Postres", category: "Postres", price: "$40", image: "IMG/pastel rockcafe.jpg" }, 
+    { id: 1, name: "Pasata Bolognesa", description:"Plato fuerte", category: "platos-fuerte", price: "$225", image: "Pasta de mi restaurante.jpg" },
+    { id: 2, name: "Corte de carne", description:"Plato fuerte", category: "platos-fuerte", price: "$400", image: "Corte de carne restaurante.jpg" },
+    { id: 3, name: "Hamburguesa", description:"Plato fuerte", category: "platos-fuerte", price: "$250", image: "Hamburguesas para mi restaurante.jpg" },
+    { id: 4, name: "Café", description:"bebidas", category: "bebidas", price: "$45", image: "bebidas para rockcafe.jpg" },
+    { id: 5, name: "Limonadas", description:"bebidas", category: "bebidas", price: "$35", image: "bebidas rockcafe.jpg" },
+    { id: 6, name: "Espressos", description:"bebidas", category: "bebidas", price: "$55", image: "bebidas rockcafee.jpg" },
+    { id: 7, name: "Struddles", description:"Postres", category: "Postres", price: "$60", image: "Imagen postres.jpg" },
+    { id: 8, name: "Pastel", description:"Postres", category: "Postres", price: "$40", image: "pastel rockcafe.jpg" }, 
     // Agrega más platos aquí...
 ];
 
